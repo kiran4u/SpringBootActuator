@@ -1,0 +1,8 @@
+info:
+  application:
+    name: SpringBoot-Actuator
+    description:  Test Spring Boot Actuator  14 endpoints
+    version: Version 5.0
+  technology:
+    java: open jdk 18
+    springboot: 2.7.3
